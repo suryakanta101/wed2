@@ -605,8 +605,11 @@ figure {
 }
 .simple_h5.mon{
   font-family: 'Montez';
-  font-size: 26px;
+  font-size: 30px;
   margin-bottom: 10px;
+}
+.simple_h5.mon.bold{
+  font-weight: bold;
 }
 
 .heading-section p {
